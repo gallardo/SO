@@ -1,2 +1,2 @@
-# SO
-Test change headers from inside an included servlet using the original response
+# StackOverflow code snippets
+(for supporting questions in SO)
